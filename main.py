@@ -1,4 +1,4 @@
-# CODE FOUND HERW: https://www.geeksforgeeks.org/the-knights-tour-problem/
+# CODE FOUND HERE: https://www.geeksforgeeks.org/the-knights-tour-problem/
 
 # Python3 program to solve Knight Tour problem using Backtracking
 #
